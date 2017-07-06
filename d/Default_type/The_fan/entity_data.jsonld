@@ -1,0 +1,18 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Default_type/The_fan",
+  "@type": [
+    "annal:Default_type",
+    "annal:EntityData"
+  ],
+  "annal:id": "The_fan",
+  "annal:type": "annal:Default_type",
+  "annal:type_id": "Default_type",
+  "rdfs:comment": "# Japanese fan with Wave\r\n\r\nA fan with bamboo spars and a image of or inspired by (Hokusai's) Fuji Wave on the sail.\r\n\r\nThe spars are about  20cm long, and pivot on a metal pin about 1.5cm from the inner end of the fan, and have a pattern of decorative holes between the pivot the inner end of the sail.\r\n\r\nThe sail is of silk, and is partially translucent.  It extends about 10cm from the outer ends of the spar towards the pivot.\r\n\r\nThere is a Japanese(?) inscription on the sail.\r\n\r\nThe image is predominantly blue, white, grey and black.\r\n\r\n## Details of the painting from The Met web site\r\n\r\nUnder the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanj\u016brokkei)\r\n\r\n- Artist: Katsushika Hokusai (Japanese, Tokyo (Edo) 1760\u20131849 Tokyo (Edo))\r\n- Period: Edo period (1615\u20131868)\r\n- Date: ca. 1830\u201332\r\n- Culture: Japan\r\n- Medium: Polychrome woodblock print; ink and color on paper\r\n- Dimensions: 10 1/8 x 14 15/16 in. (25.7 x 37.9 cm)\r\n- Classification: Prints\r\n- Credit Line: H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929\r\n- Accession Number: JP1847\r\n\r\n### Description\r\n\r\nThe breathtaking composition of this woodblock print, said to have inspired Debussy\u2019s La Mer (The Sea) and Rilke\u2019s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan\u2019s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue.",
+  "rdfs:label": "Japanese fan with Wave"
+}
